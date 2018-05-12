@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32566'
     url: http://www.gutenberg.org/2009/agents/32566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30462#O-Oraculo-do-Passado-do-presente-e-do-Futuro--3-7---13-Parte-Terceira--O-oraculo-dos-Segredos
 gutenberg_issued: '2009-11-13'
 gutenberg_type: Text
 identifiers:
